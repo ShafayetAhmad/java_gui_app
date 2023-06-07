@@ -1,5 +1,4 @@
 import io.github.cdimascio.dotenv.Dotenv;
-import io.github.cdimascio.dotenv.DotenvEntry;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
